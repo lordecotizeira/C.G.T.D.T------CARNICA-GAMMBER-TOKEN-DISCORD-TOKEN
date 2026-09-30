@@ -1,19 +1,24 @@
-UM GAMBBER EM PYTHON FEITO PARA COLETAR O TOKEN DO DISCORD
-
-## OQUE ELE FAZ
-ELE COLETAR  O TOKEN E ALGUMAS INFORMAÇAO DA CONTA
-
-## COMO FUNCIONA
-VOCE COLOCA AS INFORMAÇOES EA FERRAMENTA DE DISFARÇE E ELE CRIA O GAMBBER
-APOS ISSO A VITIMA EXECUTA E COLOCA AS COISAS E VOCE RECEBE AS INFORMAÇOES
-
-
-## CREDITOS:
-by:
-lorde cotizeira
-team:
-carniçalteam
+# Um Grabber feito em Python para coletar dados e token acess do discord.
 
 
 
-# VIDA LONGA AO REI!!
+## Funcionalidades
+
+01. Coleta o Nome de usuario e ID.
+02. Coleta o Token de acesso.
+
+
+
+## Como funciona
+
+Você coloca as informações e a ferramenta disfarçada, então gera o Grabber, apos isso o alvo executa e você recebe as informações.
+
+
+## Créditos
+
+Autor: lorde cotizeira 
+equipe: Carniçalteam
+
+
+
+> Vida longa ao Rei!
