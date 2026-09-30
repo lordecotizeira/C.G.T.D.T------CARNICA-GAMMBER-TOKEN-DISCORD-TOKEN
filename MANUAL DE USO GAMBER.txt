@@ -1,0 +1,50 @@
+APRESENTAÇÃO:
+Bem-vindo ao C.G.T.D.T. — CARNIÇA GAMBER TOKEN DISCORD TOOL
+uma ferramenta que gera um gamber de tokens para discord se passando por uma ferramenta ou bot original 
+criado por LORDE COTIZEIRA E PUPUTINET
+ele foi criado dia 30/09/2026 
+desenvolvido em python
+
+SERVIDORES DONOS: 
+CARNIÇAL TEAM = LORDE COTIZEIRA
+RED DRAGON = PUPUTINET
+
+
+
+
+
+MANUAL DE USO:
+você ira iniciar e colocar a opção [1] após isso você ira colocar o nome da ferramenta que você ira usar como disfarce [fica da sua preferencia] após isso você ira colocar o webhook que ira chegar as informações 
+mensagem = as mensagens que ira aparecer exemplo( para verificamos sua conta  ou sla)
+
+após isso você coloca o nome da ferramenta e pronto
+após isso você usa o criptografador e pronto (caso queira não usar tbm serve)
+
+ai você faz ele instalar
+
+pip install requests
+pip install discord
+
+APOS ISSO ELE COLOCA O NOME EA SENHA [SE TIVE UM CODIGO ELE COLOCA] E PRONTO
+USSE SUA CRIATIVIDADE
+
+
+
+
+
+
+
+
+
+SERVIDORES:
+CARNIÇALTEAM ===> https://discord.gg/MXaKFxb5jz
+RED DRAGON ===> https://discord.gg/BgMzdkGNX8
+
+
+
+
+
+
+
+MENSAGEN:
+[RAPAZIADA TEM UM GALERA CHAMANDO NOS DE PEDOFILOS E PANELEIROS E TALS, SO LEMBRANDO QUE EU  NAO SOU PEDOFILO NEM NADA E TODAS AS FERRAMENTAS QUE EU POSTO E EXATAMENTA PARA LIDAR E COMBATER ESSES RATOS NA INTERNET, MESMO POR MEIOS NAO ETICO CASO TENHAM DUVIDAS E TALS PODEM FALAR COM NOSCO OKAY? LEMBRANDO NOS TRABALHAMOS PARA COMBATER ESSES PORCOS IMUNDOS DA INTERNET USEM COM RESPONBONSABILIDADE]
