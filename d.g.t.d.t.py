@@ -25,7 +25,7 @@ def limpar():
 jk = []
 nome_ferramenta = ""
 webhook = ""
-webhook = discord.Webhook.from_url(webhook)
+webhook = discord.SyncWebhook.from_url(webhook_link
 while True:
     for i in jk:
         print(i)
